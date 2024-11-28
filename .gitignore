@@ -1,0 +1,49 @@
+### IntelliJ IDEA ###
+*.iml
+.idea/
+out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Build Files ###
+*.class
+*.jar
+*.war
+*.ear
+
+### Logs ###
+*.log
+
+### OS-Specific ###
+.DS_Store
+Thumbs.db
+
+### Ignore Generated Files ###
+*.swp
+*.swo
+
+### Java IDE Plugin Files ###
+/target/
+/build/
+
+### Exclusions ###
+!**/src/main/**/
+!**/src/test/**/
